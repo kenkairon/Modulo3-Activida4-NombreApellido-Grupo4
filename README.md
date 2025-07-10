@@ -6,7 +6,11 @@ Este proyecto es un sistema de gestión de tareas construido usando el enfoque *
 👨‍💻 Autor
 Módulo 3 -  Actividad 4
 Proyecto: Sistema TaskTracker con JUnit
-Equipo 4:  Fabiola Díaz,Felipe Lobos, Eduardo Arellano, Carlos Vásquez
+Equipo 4:  
+- Fabiola Díaz,
+- Felipe Lobos,
+- Eduardo Arellano, 
+- Carlos Vásquez
 
 
 ## 🔁 Ciclo TDD: Red - Green - Refactor
