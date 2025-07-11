@@ -35,7 +35,7 @@ TDD se basa en tres pasos fundamentales:
 
 ### ♻️ Refactor Código:
 
-![Fase Refactor](./assets/refactorCodigo.png)  
+![Fase Refactor](./assets/refactorCodigoR.png)  
 
 ---
 
