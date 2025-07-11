@@ -25,9 +25,15 @@ TDD se basa en tres pasos fundamentales:
 
 ![Fase Green](./assets/green.png)
 
+### ✅ Green: Código Zona Verde
+![Fase Green](./assets/greenCodigo.png)
+
 ### ♻️ Refactor: Mejorar el código sin romper las pruebas
 
 ![Fase Refactor](./assets/refactor.png)
+
+### ♻️ Refactor Código:}
+![Fase Refactor](./assets/refactorCodigo.png)
 
 ---
 
